@@ -1,0 +1,5 @@
+fun main(){
+    println("Hello vamshi K") //print and moves to new line
+
+    print("Hello vamshi V") //print and stay at same line
+}
